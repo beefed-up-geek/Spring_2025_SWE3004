@@ -8,3 +8,4 @@
     2. $ ~swe3004/bin/submit pa0 xv6-riscv
        pa0 -> 과제명 / xv6-riscv -> xv6 운영체제 파일 / 홈에서 하는 것이 권장됨!!
     3. $ ~swe3004/bin/check-submission pa0
+
