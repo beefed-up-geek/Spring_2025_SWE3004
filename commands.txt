@@ -13,3 +13,5 @@
     git fetch origin
     git pull
 
+• 서버로 덮어씌우기
+    scp -r -P 1398 ~/Desktop/Spring_2025_SWE3004/ s22315902@swye.skku.edu:~/Spring_2025_SWE3004
